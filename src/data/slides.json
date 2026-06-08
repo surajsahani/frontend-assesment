@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "image": "/images/slide-1920x1080.webp",
+    "imageMobile": "/images/slide-375x698.webp",
+    "alt": "1920x1080 slide",
+    "hero": {
+      "eyebrow": "Eyebrow",
+      "heading": "Welcome Developer!",
+      "blurb": "Your goal is to translate the provided Figma designs into a living, functional interface. We value pixel-perfection; your output should match the design specifications exactly in terms of colour, spacing, typography, and visual hierarchy.",
+      "buttons": [
+        { "id": 1, "label": "Shop Now", "variant": "primary", "url": "#" },
+        { "id": 2, "label": "Discover All", "variant": "secondary", "url": "#" }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "image": "/images/slide-1920x1080.webp",
+    "imageMobile": "/images/slide-375x698.webp",
+    "alt": "Slide 2",
+    "hero": {
+      "eyebrow": "Collection",
+      "heading": "Explore Our Products",
+      "blurb": "Your goal is to translate the provided Figma designs into a living, functional interface. We value pixel-perfection; your output should match the design specifications exactly in terms of colour, spacing, typography, and visual hierarchy.",
+      "buttons": [
+        { "id": 1, "label": "Browse Now", "variant": "primary", "url": "#" },
+        { "id": 2, "label": "Learn More", "variant": "secondary", "url": "#" }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "image": "/images/slide-1920x1080.webp",
+    "imageMobile": "/images/slide-375x698.webp",
+    "alt": "Slide 3",
+    "hero": {
+      "eyebrow": "New Arrivals",
+      "heading": "Fresh Drops This Week",
+      "blurb": "Your goal is to translate the provided Figma designs into a living, functional interface. We value pixel-perfection; your output should match the design specifications exactly in terms of colour, spacing, typography, and visual hierarchy.",
+      "buttons": [
+        { "id": 1, "label": "Shop New", "variant": "primary", "url": "#" },
+        { "id": 2, "label": "View All", "variant": "secondary", "url": "#" }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "image": "/images/slide-1920x1080.webp",
+    "imageMobile": "/images/slide-375x698.webp",
+    "alt": "Slide 4",
+    "hero": {
+      "eyebrow": "Limited Edition",
+      "heading": "Exclusive Deals",
+      "blurb": "Your goal is to translate the provided Figma designs into a living, functional interface. We value pixel-perfection; your output should match the design specifications exactly in terms of colour, spacing, typography, and visual hierarchy.",
+      "buttons": [
+        { "id": 1, "label": "Grab Deal", "variant": "primary", "url": "#" },
+        { "id": 2, "label": "See More", "variant": "secondary", "url": "#" }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "image": "/images/slide-1920x1080.webp",
+    "imageMobile": "/images/slide-375x698.webp",
+    "alt": "Slide 5",
+    "hero": {
+      "eyebrow": "Our Story",
+      "heading": "Built With Passion",
+      "blurb": "Your goal is to translate the provided Figma designs into a living, functional interface. We value pixel-perfection; your output should match the design specifications exactly in terms of colour, spacing, typography, and visual hierarchy.",
+      "buttons": [
+        { "id": 1, "label": "About Us", "variant": "primary", "url": "#" },
+        { "id": 2, "label": "Get Started", "variant": "secondary", "url": "#" }
+      ]
+    }
+  }
+]

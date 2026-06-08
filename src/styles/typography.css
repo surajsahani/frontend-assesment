@@ -1,0 +1,75 @@
+@layer components {
+  .type-hero-eyebrow {
+    @apply font-pp text-[10px]/[15px] font-semibold md:font-sans md:text-xs/[14px] md:font-bold;
+  }
+
+  .type-hero-heading {
+    @apply font-rb text-[36px]/[42px] font-normal md:font-sans md:text-[56px]/[64px];
+  }
+
+  .type-hero-blurb {
+    @apply font-pp text-[10px]/[15px] font-normal md:font-sans md:text-xs/[14px];
+  }
+
+  .type-button-label {
+    @apply font-pp text-xs/[1.5] font-semibold md:font-sans md:text-xs/[14px] md:font-bold;
+  }
+
+  .type-product-brand {
+    @apply font-pp text-[10px]/[15px] font-medium md:font-sans md:text-xs/[14px] md:font-normal;
+  }
+
+  .type-product-heading {
+    @apply font-pp text-[10px]/[15px] font-normal md:font-sans md:text-xs/[14px];
+  }
+
+  .type-product-price {
+    @apply font-pp text-[10px]/[14px] font-normal md:font-sans md:text-xs/[14px];
+  }
+
+  .type-product-price-original {
+    @apply font-pp text-[10px]/[15px] font-normal md:font-sans md:text-xs/[14px];
+  }
+
+  .type-section-heading {
+    @apply font-rb text-[32px]/[38px] font-normal md:font-sans md:text-[48px]/[1.15];
+  }
+
+  .type-home-card-badge {
+    @apply font-sans text-[11px] font-bold;
+  }
+
+  .type-home-card-title {
+    @apply font-sans text-[2rem]/none font-bold;
+  }
+
+  .type-home-page-title {
+    @apply font-sans text-[3rem]/[0.95] font-bold sm:text-[4rem]/[0.95] lg:text-[4.75rem]/[0.95];
+  }
+
+  .type-route-title {
+    @apply font-pp text-[2rem] font-bold lg:text-[2.5rem];
+  }
+
+  .type-caption-sm {
+    @apply font-rb text-[14px] font-normal;
+  }
+
+  .type-tab-label {
+    @apply font-pp text-[15px] font-medium;
+  }
+
+  .type-accordion-label {
+    @apply font-pp text-[15px] font-semibold;
+  }
+
+  .type-rich-text-sm p,
+  .type-rich-text-sm li {
+    @apply font-rb text-[14px]/[1.75];
+  }
+
+  .type-rich-text-md p,
+  .type-rich-text-md li {
+    @apply font-rb text-[15px]/[1.75];
+  }
+}
