@@ -8,8 +8,8 @@
       "heading": "Heading",
       "price": 80.95,
       "originalPrice": 80.95,
-      "imageDesktop": "/images/product-462x710.webp",
-      "imageMobile": "/images/product-173.5x276.webp",
+      "imageDesktop": "images/product-462x710.webp",
+      "imageMobile": "images/product-173.5x276.webp",
       "imageAlt": "Product 1"
     },
     {
@@ -19,8 +19,8 @@
       "heading": "Heading",
       "price": 80.95,
       "originalPrice": 80.95,
-      "imageDesktop": "/images/product-462x710.webp",
-      "imageMobile": "/images/product-173.5x276.webp",
+      "imageDesktop": "images/product-462x710.webp",
+      "imageMobile": "images/product-173.5x276.webp",
       "imageAlt": "Product 2"
     },
     {
@@ -30,8 +30,8 @@
       "heading": "Heading",
       "price": 80.95,
       "originalPrice": 80.95,
-      "imageDesktop": "/images/product-462x710.webp",
-      "imageMobile": "/images/product-173.5x276.webp",
+      "imageDesktop": "images/product-462x710.webp",
+      "imageMobile": "images/product-173.5x276.webp",
       "imageAlt": "Product 3"
     },
     {
@@ -41,8 +41,8 @@
       "heading": "Heading",
       "price": 80.95,
       "originalPrice": 80.95,
-      "imageDesktop": "/images/product-462x710.webp",
-      "imageMobile": "/images/product-173.5x276.webp",
+      "imageDesktop": "images/product-462x710.webp",
+      "imageMobile": "images/product-173.5x276.webp",
       "imageAlt": "Product 4"
     }
   ]
